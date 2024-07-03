@@ -1,10 +1,7 @@
 using System;
 
-class MergeSort {
+class MergeSortwithExplanations {
 
-    // Merges two subarrays of []arr.
-    // First subarray is arr[l..m]
-    // Second subarray is arr[m+1..r]
     void merge(int[] array, int l, int m, int r)
     {
         // Find sizes of two
