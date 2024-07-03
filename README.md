@@ -1,4 +1,4 @@
-# CSharpAlgorithmExamples
+# C# Algorithm Examples for Computer Science Students
 This is a repository of example C# classes written to be teaching aids for computer science students
 
 ## .NetFiddle Examples
